@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @LouisBis, french graphic designer trying to retrain in developper
+- 👀 I’m interested in learning stuff
+- I have basics in Bash
+- 🌱 I’m currently learning C

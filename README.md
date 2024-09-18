@@ -2,3 +2,11 @@
 - 👋 Hi, I’m @LouisBis, former graphic designer.
 - 👀 I’m interested in learning stuff
 - 🧰 I use react, nextJS, java.
+
+  <div align="center">
+<h2>
+   :fire: My Stats 
+  </h2>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LouisBis&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+</div>

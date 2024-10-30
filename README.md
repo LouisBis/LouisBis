@@ -10,14 +10,14 @@
 
 <div> 
   <h3>
-    :rocket: Perso
+    :rocket: Personal
   </h3>  
   <img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=LouisBis&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></td>
   <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LouisBis&layout=donut&theme=dracula">
 </div>
 <div>
   <h3>
-   :card_file_box: Pro
+   :card_file_box: Professional
   </h3>
   <img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=MaraisL&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068">
 <div>
